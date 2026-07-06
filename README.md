@@ -71,7 +71,7 @@ Building scalable systems where **blockchain meets AI** — from zk-proofs to RA
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-## 🔨 What I Work On
+## 🔨 What I Worked On (past 6-8 months report)
 
 | Area | Details |
 |------|---------|
