@@ -15,14 +15,8 @@ Building scalable systems where **blockchain meets AI** — from zk-proofs to RA
 ---
 
 ## 🚀 About Me
-
-- 💼 **Software Engineer (AI & Blockchain)** at **MVL TADA Mobility**, Bengaluru
-- 🤖 Building **AI/LLM infrastructure** — RAG architectures, vector embedding pipelines, semantic retrieval, AI agents, and real-time inference systems
-- ⛓️ **Web3 background** — zk-SNARKs (SnarkJS, zkSync), smart contract integrations, WalletConnect & Privy, privacy-preserving identity verification
-- 🏗️ Distributed systems: async task orchestration, event-driven processing, high-throughput workloads
-- 🛠️ Platform work: Prisma migrations, shared package architecture, repository-pattern refactors, CI/CD
-
-## 🧰 Tech Stack
+ 
+I teach LLMs to remember (RAG), blockchains to keep secrets (zk-SNARKs), and distributed systems to behave. Powered by a occasional beer and a regular coffee. 
 
 **Languages**
 
