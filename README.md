@@ -78,6 +78,6 @@ I teach LLMs to remember (RAG), blockchains to keep secrets (zk-SNARKs), and dis
 
 <div align="center">
 
-💬 Open to collaborating on **AI-native products** and **Web3 infrastructure** — reach out at [jujarvipul21@gmail.com](mailto:jujarvipul21@gmail.com)
+💬 Open to collaborating on **AI-native dev** and **Web3** — reach me at [jujarvipul21@gmail.com](mailto:jujarvipul21@gmail.com)
 
 </div>
