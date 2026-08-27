@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vipul Jujar 👋
+# Hi, I'm Vipul Jujar 👋 
 
 ### Software Engineer · AI · Blockchain · Backend
 
